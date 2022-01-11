@@ -1,0 +1,1 @@
+# publicpath-not-working-example
